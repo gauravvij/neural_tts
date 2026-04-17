@@ -1,5 +1,6 @@
 # Virtual environment
 venv/
+venv
 .env/
 
 # Large model files
@@ -30,3 +31,4 @@ results/*.wav
 # OS
 .DS_Store
 Thumbs.db
+*.onnx

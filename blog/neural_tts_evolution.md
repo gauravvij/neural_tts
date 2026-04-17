@@ -288,7 +288,14 @@ Rather than failing silently, NEO researched and documented why XTTSv2 requires 
 
 ### Extending This Work with NEO
 
-You can use NEO to build on this evaluation in several ways:
+You can use NEO to build on this evaluation. First, clone the repository:
+
+```bash
+git clone https://github.com/gauravvij/neural_tts.git
+cd neural_tts
+```
+
+Then prompt NEO to extend the work in several ways:
 
 **Add More Models**
 ```
