@@ -1,0 +1,47 @@
+{
+  "model": "melotts_zh_mix_en_onnx",
+  "model_size_mb": 161.8851490020752,
+  "sample_rate": 44100,
+  "language": "ZH_MIX_EN",
+  "speakers": [
+    "ZH"
+  ],
+  "tests": [
+    {
+      "text": "Hello, this is a test of neural text to speech synthesis.",
+      "rtf_mean": 0.19512351960962204,
+      "rtf_std": 0.05960838705109882,
+      "audio_duration": 4.279901738473168,
+      "synthesis_time": 0.6526196219492704
+    },
+    {
+      "text": "The quick brown fox jumps over the lazy dog.",
+      "rtf_mean": 0.15628808452046275,
+      "rtf_std": 8.587172487555733e-05,
+      "audio_duration": 3.1034240362811794,
+      "synthesis_time": 0.4737738959956914
+    },
+    {
+      "text": "Neural networks have revolutionized speech synthesis.",
+      "rtf_mean": 0.1519869621656381,
+      "rtf_std": 0.002303017814159481,
+      "audio_duration": 3.823242630385488,
+      "synthesis_time": 0.5661315430188552
+    },
+    {
+      "text": "Real-time factor measures synthesis speed relative to audio duration.",
+      "rtf_mean": 0.15170066685982486,
+      "rtf_std": 0.000819095427103397,
+      "audio_duration": 4.488881330309902,
+      "synthesis_time": 0.6886064470163547
+    },
+    {
+      "text": "Modern TTS models can run efficiently on CPU.",
+      "rtf_mean": 0.16375111212012664,
+      "rtf_std": 0.011498001527035298,
+      "audio_duration": 3.5755631141345425,
+      "synthesis_time": 0.5570511300466023
+    }
+  ],
+  "average_rtf": 0.16377006905513486
+}

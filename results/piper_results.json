@@ -1,0 +1,128 @@
+{
+  "en_US-lessac-low": {
+    "quality": "low",
+    "size_mb": 5.8,
+    "tests": [
+      {
+        "text": "Hello, this is a test of neural text to speech synthesis.",
+        "rtf_mean": 1514.9596853472758,
+        "rtf_std": 46.374076409248126,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.06772592800552957
+      },
+      {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "rtf_mean": 1109.4164749243646,
+        "rtf_std": 26.203570183640178,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.049375855014659464
+      },
+      {
+        "text": "Neural networks have revolutionized speech synthesis.",
+        "rtf_mean": 1367.9052145787864,
+        "rtf_std": 1.9480992604395486,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.061966868001036346
+      },
+      {
+        "text": "Real-time factor measures synthesis speed relative to audio duration.",
+        "rtf_mean": 1695.383619410859,
+        "rtf_std": 42.74392722274972,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.07415461199707352
+      },
+      {
+        "text": "Modern TTS models can run efficiently on CPU.",
+        "rtf_mean": 1359.126286341052,
+        "rtf_std": 30.169915597162834,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.06069891699007712
+      }
+    ],
+    "average_rtf": 1409.3582561204676
+  },
+  "en_US-lessac-medium": {
+    "quality": "medium",
+    "size_mb": 62.0,
+    "tests": [
+      {
+        "text": "Hello, this is a test of neural text to speech synthesis.",
+        "rtf_mean": 2559.9731597598293,
+        "rtf_std": 49.00553981025699,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.11345720899407752
+      },
+      {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "rtf_mean": 1963.505445307237,
+        "rtf_std": 75.15731335642946,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.08700357700581662
+      },
+      {
+        "text": "Neural networks have revolutionized speech synthesis.",
+        "rtf_mean": 2373.9143705330207,
+        "rtf_std": 15.186496655207113,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.10831027600215748
+      },
+      {
+        "text": "Real-time factor measures synthesis speed relative to audio duration.",
+        "rtf_mean": 3068.7808272530674,
+        "rtf_std": 78.20465914694725,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.1351501799945254
+      },
+      {
+        "text": "Modern TTS models can run efficiently on CPU.",
+        "rtf_mean": 2450.636529678013,
+        "rtf_std": 40.06505245433535,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.10870455001713708
+      }
+    ],
+    "average_rtf": 2483.3620665062335
+  },
+  "en_US-lessac-high": {
+    "quality": "high",
+    "size_mb": 110.0,
+    "tests": [
+      {
+        "text": "Hello, this is a test of neural text to speech synthesis.",
+        "rtf_mean": 8122.838402610796,
+        "rtf_std": 126.36909651727083,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.3602945619786624
+      },
+      {
+        "text": "The quick brown fox jumps over the lazy dog.",
+        "rtf_mean": 5905.600255755417,
+        "rtf_std": 210.5296184728671,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.26472577298409306
+      },
+      {
+        "text": "Neural networks have revolutionized speech synthesis.",
+        "rtf_mean": 7250.995345943375,
+        "rtf_std": 105.23078682205133,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.3355150340066757
+      },
+      {
+        "text": "Real-time factor measures synthesis speed relative to audio duration.",
+        "rtf_mean": 9393.680289178155,
+        "rtf_std": 110.14536210597579,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.4189531340089161
+      },
+      {
+        "text": "Modern TTS models can run efficiently on CPU.",
+        "rtf_mean": 7340.5705451761605,
+        "rtf_std": 158.49572576355447,
+        "audio_duration": 4.5351473922902495e-05,
+        "synthesis_time": 0.33517841398133896
+      }
+    ],
+    "average_rtf": 7602.736967732781
+  }
+}

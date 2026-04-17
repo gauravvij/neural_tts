@@ -1,0 +1,39 @@
+{
+  "model": "Parler-TTS-Mini",
+  "model_size_mb": 880.0,
+  "sample_rate": 44100,
+  "language": "en",
+  "tests": [
+    {
+      "text": "Hello, this is a test of neural text to speech synthesis.",
+      "rtf": 6.907702742241574,
+      "audio_duration": 3.1927437641723357,
+      "synthesis_time": 22.05452485504793
+    },
+    {
+      "text": "The quick brown fox jumps over the lazy dog.",
+      "rtf": 6.969706352645195,
+      "audio_duration": 2.36843537414966,
+      "synthesis_time": 16.507299073040485
+    },
+    {
+      "text": "Neural networks have revolutionized speech synthesis.",
+      "rtf": 6.987881616078882,
+      "audio_duration": 2.48453514739229,
+      "synthesis_time": 17.36163748096442
+    },
+    {
+      "text": "Real-time factor measures synthesis speed relative to audio duration.",
+      "rtf": 6.8775666887945315,
+      "audio_duration": 3.4481632653061225,
+      "synthesis_time": 23.714972810994368
+    },
+    {
+      "text": "Modern TTS models can run efficiently on CPU.",
+      "rtf": 6.9363329658781785,
+      "audio_duration": 2.3103854875283445,
+      "synthesis_time": 16.025603021029383
+    }
+  ],
+  "average_rtf": 6.935838073127672
+}

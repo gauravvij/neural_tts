@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.env/
+
+# Large model files
+models/*.onnx
+models/*.onnx.json
+models/*.bin
+models/*.axmodel
+models/melotts/python/__pycache__/
+models/melotts/python/text/__pycache__/
+
+# Temporary files
+.tmp/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Audio samples (large)
+results/*.wav
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

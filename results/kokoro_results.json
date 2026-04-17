@@ -1,0 +1,39 @@
+{
+  "model": "Kokoro-82M",
+  "model_size_mb": 82.0,
+  "sample_rate": 24000,
+  "language": "en",
+  "tests": [
+    {
+      "text": "Hello, this is a test of neural text to speech synthesis.",
+      "rtf": 0.5156784184509888,
+      "audio_duration": 3.9,
+      "synthesis_time": 2.0111458319588564
+    },
+    {
+      "text": "The quick brown fox jumps over the lazy dog.",
+      "rtf": 0.13136475631752267,
+      "audio_duration": 3.25,
+      "synthesis_time": 0.42693545803194866
+    },
+    {
+      "text": "Neural networks have revolutionized speech synthesis.",
+      "rtf": 0.13146800805568798,
+      "audio_duration": 3.6,
+      "synthesis_time": 0.47328482900047675
+    },
+    {
+      "text": "Real-time factor measures synthesis speed relative to audio duration.",
+      "rtf": 0.12706105682611613,
+      "audio_duration": 5.05,
+      "synthesis_time": 0.6416583369718865
+    },
+    {
+      "text": "Modern TTS models can run efficiently on CPU.",
+      "rtf": 0.11966908381076617,
+      "audio_duration": 4.2,
+      "synthesis_time": 0.502610152005218
+    }
+  ],
+  "average_rtf": 0.20504826469221635
+}
