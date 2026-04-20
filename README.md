@@ -1,5 +1,7 @@
 # Neural TTS: From WaveNet to Edge Deployment
 
+[![Built by NEO](https://img.shields.io/badge/Built%20by%20NEO-Your%20autonomous%20AI%20engineering%20agent-blue?style=flat-square)](https://heyneo.com)
+
 A hands-on exploration of how neural text-to-speech models have evolved from resource-heavy autoregressive architectures to lightweight ONNX models that run in real-time on CPU. This repository contains reproducible experiments measuring synthesis speed, quality trade-offs, and practical deployment considerations.
 
 ## What This Repository Contains
